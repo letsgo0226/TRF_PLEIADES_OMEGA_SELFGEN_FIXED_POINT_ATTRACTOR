@@ -1,1 +1,2 @@
 # TRF_PLEIADES_OMEGA_SELFGEN_FIXED_POINT_ATTRACTOR
+A self-referential fixed-point engine in which Ω becomes the generator, the generated object, and the terminal attractor through symbolic Riemann-zero encoding, Abelian JSON traversal, and ergodic self-discovery.
